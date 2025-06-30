@@ -554,9 +554,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Radix UI](https://www.radix-ui.com/) - For accessible component primitives
 - [Tailwind CSS](https://tailwindcss.com/) - For the utility-first CSS framework
 - [Vite](https://vitejs.dev/) - For the blazing fast build tool
-
----
-
-**Built with ❤️ by [Jeetanshu18](https://github.com/Jeetanshu18)**
-
-_Last updated: June 30, 2025_
